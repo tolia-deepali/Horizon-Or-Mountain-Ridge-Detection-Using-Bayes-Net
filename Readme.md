@@ -66,3 +66,6 @@ For both the arrays now we run viterbi algorithm and generate coordinates which 
 
 ```
 where row coord and col coord are the image row and column coordinates of the human-labeled pixel.
+
+#### Results :
+Please Find Results Doc for the Output
